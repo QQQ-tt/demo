@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    driver-class-name: com.p6spy.engine.spy.P6SpyDriver
+    url: npw:1lhqP5q3YBmnHZaFbaIVoAgoE8D1utNqpOHbtaIB0joZ+wIvzLTI3g3HKmd1HcgZWv3h3kDW/Hu3imX0tokU3ukU++N5eL6UQb8CBcwZKFM=
+    username: npw:0fKf1RB/YCrtUTg76GWFAA==
+    password: npw:fIVUMivh5qDN7ic2bvsbbg==
+
+
+
+
+
